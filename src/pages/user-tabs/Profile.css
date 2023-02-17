@@ -1,0 +1,23 @@
+.content-wrapper {
+    width: 100vw;
+    height: 100vh;
+    margin: 1rem;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+}
+
+.main-content{
+    padding-left: 30px;
+    padding-bottom: 40px;
+    width: 80vw;
+    position: relative;
+}
+
+.tab-content{
+    position: relative;
+    height: 100%;
+}
+
+
+
